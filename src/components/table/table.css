@@ -1,0 +1,23 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.85rem;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  display: block;
+}
+td {
+  border: 1px solid;
+  padding: 1%;
+  box-sizing: border-box;
+}
+.name {
+  width: 15%;
+}
+.email {
+  width: 20%;
+}
+.id {
+  width: 5%;
+}
